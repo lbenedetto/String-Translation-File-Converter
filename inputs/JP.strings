@@ -1,0 +1,22 @@
+"accept" = "承諾";
+"decline" = "辞退";
+
+"gdpr_consent_title" = "FNScoutを向上 & パーソナライズ";
+"gdpr_consent_overview" = "Firecracker Software LLC はあなたのプライバシーを尊重します。弊社の情報収集および利用方法に安心していただけるように、下記設定で変更できます。詳しい情報とパートナーリストは<a href=\"https://www.firecrackersw.com/partners/apps\">こちら</a>より確認できます。アプリ設定にあるプライバシーセンターでいつでもオプトアウトできます。\n\n次に同意することで、あなたが16歳以上であることを確定します。";
+"personalized_advertising" = "パーソナライズされた広告";
+"gdpr_personalized_advertising_card_description" = "あなたの広告体験をパーソナライズします。この拡大された広告体験に同意することで、あなたに関連する広告が表示されます。プライバシー設定によって、Firecracker Softwareとそのパートナーはパーソナライズされた広告体験を提供するために、あなたに関するデバイス識別子や場所データ、その他の属性や興味などの個人データを収集し実行することがあります。";
+"gdpr_still_see_ads" = "まだ広告が表示されることを理解しますが、私の興味に関連しているとは限りません。";
+"app_analytics" = "アプリ解析";
+"gdpr_use_analytics_overview" = "アプリの使用法を分析するために様々なツールを使っています。これは人々のアプリ使用法と改善ポイントを理解するのに役立ちます。プライバシー設定によって、Firecracker Softwareとそのパートナーはデバイス識別子やインターネットプロトコル識別子、クラッシュ追跡、cookie識別子を含むオンライン識別子などの個人データを収集し実行することがあります。ユーザーレベルとイベントレベルのデータは26か月後に削除されます。";
+
+"privacy_center" = "プライバシーセンター";
+
+"privacy_policy" = "プライバシーポリシー";
+"consent_last_changed" = "最後に編集された同意書:";
+"change_consent" = "同意書を変更";
+"ad_identifier" = "広告識別子";
+"accepted" = "承諾済";
+"declined" = "辞退済";
+"restart_required" = "リスタートが必要です。";
+"restart_recommended" = "リスタートをお勧めします。";
+"restart_recommended_msg" = "プライバシー設定を完全に適用させるため、アプリをリスタートすることをお勧めします。";

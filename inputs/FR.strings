@@ -1,0 +1,29 @@
+"accept" = "Accepter";
+"decline" = "Refuser";
+
+/* GDPR Consent Cards */
+"gdpr_consent_title" = "Améliorations et personnalisation de FNScout";
+"gdpr_consent_overview" = "Firecracker Software LLC prend votre confidentialité très au sérieux. C'est pourquoi vous avez la possibilité de modifier les paramètres ci-dessous pour vous assurez que vous soyez à l'aise avec la façon dont nous recueillons et utilisons vos informations. Pour des informations complémentaires et pour consulter notre liste de partenaires, visitez <a href=\"https://www.firecrackersw.com/partners/apps\">ici</a>. Vous pouvez choisir à tout moment de changer d'avis en accédant au Centre de confidentialité dans les paramètres de l'application.\n\nEn acceptant ce qui suit, vous confirmez être âgé de plus de 16 ans.";
+"personalized_advertising" = "Publicité personnalisée";
+"gdpr_personalized_advertising_card_description" = "Nous personnalisons l'expérience publicitaire. En acceptant l'expérience publicitaire améliorée, vous vous verrez proposer des annonces publicitaires qui vous correspondent le mieux. En fonction de vos paramètres de confidentialité, Firecracker Software et ses partenaires pourraient recueillir et traiter des données personnelles telles que les identifiants d'appareils, les données de localisation, ainsi que d'autres données démographiques et relatives à votre personnalité aux fins de proposer une expérience publicitaire personnalisée.";
+"gdpr_still_see_ads" = "Je comprends que je verrais toujours des annonces publicitaires et qu'elles pourraient ne pas être correspondre à mes centres d’intérêt.";
+"app_analytics" = "Analyse de l'application";
+"gdpr_use_analytics_overview" = "Nous utilisons une palette d'outils permettant d'analyser l'usage qui est fait de notre application. Les données collectées nous aident à comprendre comment les visiteurs utilisent notre application et servent à détecter les aspects qui nécessitent des améliorations. En fonction de vos paramètres de confidentialité, Firecracker Software et ses partenaires pourraient recueillir et traiter des données personnelles telles que les identifiants d'appareils, les identifiants d'adresses IP, les traces de crashs, et les identifiants en ligne, y compris les cookies. Les données d'utilisateurs et les données par évènements seront supprimés après 26 mois";
+
+/* Settings View Controller */
+"reset_search_history" = "Réinitialiser l'historique de recherche";
+"privacy_center" = "Centre de confidentialité";
+"version_text" = "Version : %1$@";
+"search_history_reset" = "Réinitialisation de l'historique de recherche";
+"search_history_reset_msg" = "Réinitialisation de l'historique de recherche effectuée avec succès.";
+
+/* Privacy Center View Controller */
+"privacy_policy" = "Politique de confidentialité";
+"consent_last_changed" = "Dernière modification du consentement :";
+"change_consent" = "Modifier le consentement";
+"ad_identifier" = "Identificateur publicitaire";
+"accepted" = "Accepté";
+"declined" = "Refusé";
+"restart_required" = "redémarrage requis.";
+"restart_recommended" = "Redémarrage recommandé";
+"restart_recommended_msg" = "Nous vous recommandons de redémarrer l'application pour confirmer que les paramètres de confidentialité ont bien été pris en compte.";

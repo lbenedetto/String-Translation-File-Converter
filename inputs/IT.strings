@@ -1,0 +1,22 @@
+"accept" = "Accetta";
+"decline" = "Rifiuta";
+
+"gdpr_consent_title" = "Migliora e personalizza FNScout";
+"gdpr_consent_overview" = "Firecracker Software LLC prende seriamente la tua privacy. Puoi modificare le impostazioni riportate sotto, per essere certo di sentirti a tuo agio con il modo in cui raccogliamo ed usiamo i tuoi dati. Per ulteriori informazioni e per controllare l'elenco dei nostri partner, guarda <a href=\"https://www.firecrackersw.com/partners/apps\">qui</a>. Puoi declinare in qualsiasi momento, visitando il Centro della Privacy, nelle impostazioni dell'app.\n\nAcconsentendo a quanto segue, dichiari di avere più di 16 anni.";
+"personalized_advertising" = "Pubblicità personalizzata";
+"gdpr_personalized_advertising_card_description" = "Personalizziamo la tua esperienza pubblicitaria. Acconsentendo a quest'esperienza pubblicitaria migliorata, vedrai annunci pertinenti ai tuoi interessi. A seconda delle tue impostazioni sulla privacy, Firecracker Software ed i suoi partner potrebbero raccogliere ed elaborare dati personali, come identificatori del dispositivo, dati sulla posizione e altri dati demografici e di interesse, per fornirti un'esperienza pubblicitaria personalizzata.";
+"gdpr_still_see_ads" = "Comprendo che vedrò ancora degli annunci pubblicitari, ma non saranno pertinenti ai miei interessi.";
+"app_analytics" = "Analitica dell'app";
+"gdpr_use_analytics_overview" = "Usiamo un'ampia gamma di strumenti per analizzare l'utilizzo dell'app. Questo ci aiuta a comprendere come le persone la usano e dove possiamo migliorarla. A seconda delle tue impostazioni sulla privacy, Firecracker Software ed i suoi partner potrebbero raccogliere ed elaborare dati personali, come identificatori del dispositivo, identificatori del protocollo di internet, localizzatori di crash ed identificatori online, inclusi quelli dei cookie. I dati relativi all'utente e agli eventi saranno cancellati dopo 26 mesi.";
+
+"privacy_center" = "Centro della Privacy";
+
+"privacy_policy" = "Politica sulla Privacy";
+"consent_last_changed" = "Acconsenti alle ultime modifiche:";
+"change_consent" = "Modifica il consenso";
+"ad_identifier" = "Identificatore di annunci pubblicitari";
+"accepted" = "Accettato";
+"declined" = "Rifiutato";
+"restart_required" = "è necessario riavviare.";
+"restart_recommended" = "Riavvio consigliato";
+"restart_recommended_msg" = "Consigliamo di riavviare l'app, affinché tutte le impostazioni sulla privacy possano essere applicate.";

@@ -1,0 +1,22 @@
+"accept" = "수락";
+"decline" = "거부";
+
+"gdpr_consent_title" = "FNScout 개선 및 개인별 맞춤화";
+"gdpr_consent_overview" = "Firecracker Software LLC는 귀하의 개인정보를 소중하게 여깁니다. 귀하는 당사가 귀하의 정보를 수집하고 이용하는 방법에 만족하실 수 있도록 아래의 설정을 변경하실 수 있습니다. 더 자세한 정보를 알아보고 당사의 협력사 목록을 검토하려면, <a href=\"https://www.firecrackersw.com/partners/apps\">여기</a>를 참조하시기 바랍니다. 귀하는 언제든지 앱 설정의 개인정보 보호 센터를 방문하여 참여 거부를 선택하실 수 있습니다. \n\n귀하는 다음 사항에 동의함으로써 귀하가 만 16세 이상임을 확인하시는 겁니다.";
+"personalized_advertising" = "맞춤형 광고";
+"gdpr_personalized_advertising_card_description" = "당사는 사용자별 맞춤형 광고 경험을 제공합니다. 귀하가 이 향상된 광고 경험에 동의하시면, 귀하와 연관성이 높은 광고를 보시게 됩니다. 귀하의 개인정보 보호 설정에 따라, Firecracker Software 및 협력사는 개인 맞춤형 광고 경험을 제공하기 위해 귀하의 기기 식별자, 위치 정보 등의 개인정보를 비롯해 귀하에 관한 기타 인구학적 자료 및 관심 자료를 수집하고 처리할 수 있습니다.";
+"gdpr_still_see_ads" = "본인은 여전히 광고를 보게 되지만, 해당 광고는 본인의 관심사와 관련되지 않은 것일 수도 있음을 이해합니다.";
+"app_analytics" = "앱 분석";
+"gdpr_use_analytics_overview" = "당사는 다양한 도구를 이용하여 앱 사용 현황을 분석합니다. 이는 사람들이 앱을 사용하는 방법과 개선의 여지가 있는 부분을 당사가 파악하는 데 도움이 됩니다. 귀하의 개인정보 설정에 따라, Firecracker Software 및 협력사는 기기 식별자, 인터넷 프로토콜 식별자, 충돌 주적 정보, 그리고 쿠키 식별자를 포함한 온라인 식별자 등의 개인정보를 수집하고 처리할 수 있습니다. 사용자 수준 정보 및 이벤트 수준 정보는 26개월 후에 삭제됩니다.";
+
+"privacy_center" = "개인정보 보호 센터";
+
+"privacy_policy" = "개인정보 처리방침";
+"consent_last_changed" = "최근 수정한 동의:";
+"change_consent" = "동의 변경";
+"ad_identifier" = "광고 식별자";
+"accepted" = "수락함";
+"declined" = "거부함";
+"restart_required" = "재시작이 필요합니다.";
+"restart_recommended" = "재시작을 권장합니다";
+"restart_recommended_msg" = "개인정보 보호 설정을 완전히 적용하기 위해 앱을 재시작할 것을 권장합니다.";

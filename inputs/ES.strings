@@ -1,0 +1,22 @@
+"accept" = "Aceptar";
+"decline" = "Rechazar";
+
+"gdpr_consent_title" = "Mejorar y personalizar FNScout";
+"gdpr_consent_overview" = "Firecracker Software LLC se toma tu privacidad en serio. Puedes cambiar los ajustes de abajo para asegurarte de que te sientes cómodo con las formas en que recopilamos y utilizamos tu información. Para más información y revisar una lista de nuestros socios, por favor, consulta <a href=\"https://www.firecrackersw.com/partners/apps\">aquí</a>. Puedes darte de baja en cualquier momento visitando el Centro de Privacidad en los ajustes de la app.\n\nAl dar tu consentimiento a lo siguiente, confirmas que tienes más de 16 años.";
+"personalized_advertising" = "Publicidad personalizada";
+"gdpr_personalized_advertising_card_description" = "Nosotros personalizamos tu experiencia de publicidad. Al dar tu consentimiento a esta experiencia publicitaria mejorada, verás anuncios que son más relevantes para ti. Dependiendo en tus ajustes de privacidad, Firecracker Software y sus socios podrían recopilar y procesar datos personales como identificadores del dispositivo, datos de ubicación y otros datos demográficos y de interés sobre ti para proporcionar una experiencia publicitaria personalizada.";
+"gdpr_still_see_ads" = "Comprendo que todavía veré anuncios, pero podrían no ser relevantes para mis intereses.";
+"app_analytics" = "Análisis de la app";
+"gdpr_use_analytics_overview" = "Utilizamos una diversidad de herramientas para analizar el uso de la app. Esto nos ayuda a comprender cómo la gente utiliza la app y dónde podemos realizar mejoras. Dependiendo de tus ajustes de privacidad, Firecracker Software y sus socios podrían recopilar y procesar datos personales como identificadores del dispositivo, identificadores del protocolo de Internet, rastros de errores e identificadores en línea, incluyendo identificadores de cookies. Los datos a nivel de usuario y a nivel de evento se borrarán tras 26 meses.";
+
+"privacy_center" = "Centro de Privacidad";
+
+"privacy_policy" = "Política de Privacidad";
+"consent_last_changed" = "Consentimiento modificado por última vez:";
+"change_consent" = "Cambiar consentimiento";
+"ad_identifier" = "Identificador de anuncio";
+"accepted" = "Aceptado";
+"declined" = "Rechazado";
+"restart_required" = "Se requiere reinicio.";
+"restart_recommended" = "Se recomienda reiniciar";
+"restart_recommended_msg" = "Recomendamos reiniciar la app para completar la aplicación de cualquier ajuste de privacidad.";

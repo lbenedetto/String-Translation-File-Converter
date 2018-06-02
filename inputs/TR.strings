@@ -1,0 +1,22 @@
+"accept" = "Kabul Et";
+"decline" = "Reddet";
+
+"gdpr_consent_title" = "FNScout'u Geliştir ve Kişiselleştir";
+"gdpr_consent_overview" = "Firecracker Software LLC gizliliğinizi ciddiye alır. Bilgilerinizi toplayıp kullanma yollarımız hakkında rahat olduğunuzdan emin olmak için aşağıda ayarları değiştirebilirsiniz. Daha fazla bilgi için ve ortaklarımızın bir listesini incelemek için lütfen <a href=\"https://www.firecrackersw.com/partners/apps\">buraya</a> bakın. Dilediğiniz zaman uygulama ayarlarında Gizlilik Merkezi bölümünü ziyaret ederek abonelikten ayrılabilirsiniz.\n\nAşağıdakileri kabul ederek 16 yaşından büyük olduğunuzu onaylarsınız.";
+"personalized_advertising" = "Kişiselleştirilmiş Reklam";
+"gdpr_personalized_advertising_card_description" = "Reklam deneyiminizi kişiselleştiriyoruz. Bu iyileştirilmiş reklam deneyimini kabul ettiğinizde sizinle daha ilgili olan reklamları göreceksiniz. Gizlilik ayarlarınıza bağlı olarak, Firecracker Software ve onun ortakları, size kişiselleştirilmiş bir reklam deneyimi sunmak amacıyla cihaz tanımlayıcıları, konum verileri ve sizinle ilgili diğer demografik veriler ve ilgi alanı verilerini toplayıp işleyebilir.";
+"gdpr_still_see_ads" = "Yine de reklamları göreceğimi ancak bunların benim ilgi alanıma uygun olmayabileceğini anlıyorum.";
+"app_analytics" = "Uygulama Analitiği";
+"gdpr_use_analytics_overview" = "Uygulamanın kullanımını analiz etmek amacıyla çeşitli araçlar kullanırız. Bu, kişilerin uygulamayı nasıl kullandığını ve nerede iyileştirmeler yapabileceğimizi anlayabilmemize yardımcı olur. Gizlilik ayarlarınıza bağlı olarak, Firecracker Software ve onun ortakları, cihaz tanımlayıcıları, internet protokolü tanımlayıcıları, çökme izleri ve çerez tanımlayıcıları da dahil olmak üzere çevrimiçi tanımlayıcılar gibi kişisel verileri toplayıp işleyebilir. Kullanıcı seviyesindeki ve etkinlik seviyesindeki veriler 26 aydan sonra silinecektir.";
+
+"privacy_center" = "Gizlilik Merkezi";
+
+"privacy_policy" = "Gizlilik Politikası";
+"consent_last_changed" = "Kabulün Son Değiştirilme Tarihi:";
+"change_consent" = "Kabulü Değiştir";
+"ad_identifier" = "Reklam Tanımlayıcı";
+"accepted" = "Kabul Edildi";
+"declined" = "Reddedildi";
+"restart_required" = "yeniden başlatma gereklidir.";
+"restart_recommended" = "Yeniden Başlatma Önerilir";
+"restart_recommended_msg" = "Tüm gizlilik ayarlarını tamamen uygulamak için uygulamayı yeniden başlatmanızı öneririz.";

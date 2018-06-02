@@ -1,0 +1,29 @@
+"accept" = "Accepteren";
+"decline" = "Afwijzen";
+
+/* GDPR Consent Cards */
+"gdpr_consent_title" = "FNScout verbeteren & personaliseren";
+"gdpr_consent_overview" = "Firecracker Software LLC neemt uw privacy serieus. U kunt de onderstaande instellingen wijzigen om ervoor te zorgen dat u vertrouwd bent met de manieren waarop we uw informatie verzamelen en gebruiken. Kijk <a href=\"https://www.firecrackersw.com/partners/apps\">hier</a> voor meer informatie en een lijst met onze partners. U kunt op elk moment afmelden door het Privacycentrum te bezoeken in de instellingen van de app. \n\nDoor akkoord te gaan met het volgende, bevestigt u dat u ouder bent dan 16 jaar.";
+"personalized_advertising" = "Gepersonaliseerde reclame";
+"gdpr_personalized_advertising_card_description" = "We personaliseren uw advertentie-ervaring. Door in te stemmen met deze verbeterde advertentie-ervaring, ziet u advertenties die relevanter voor u zijn. Afhankelijk van uw privacyinstellingen kunnen Firecracker Software en zijn partners persoonlijke gegevens verzamelen en verwerken, zoals apparaat-ID's, locatiegegevens en andere demografische gegevens en interessegegevens over u om een gepersonaliseerde advertentie-ervaring te bieden.";
+"gdpr_still_see_ads" = "Ik begrijp dat ik nog steeds advertenties te zien krijg, maar deze zijn misschien niet zo relevant voor mijn interesses.";
+"app_analytics" = "App Analytics";
+"gdpr_use_analytics_overview" = "We gebruiken verschillende hulpmiddelen om het gebruik van de app te analyseren. Dit helpt ons te begrijpen hoe mensen de app gebruiken en waar we verbeteringen kunnen aanbrengen. Afhankelijk van uw privacyinstellingen kunnen Firecracker Software en zijn partners persoonlijke gegevens verzamelen en verwerken, zoals apparaat-ID's, internetprotocol-ID's, crashtraces en online-identificatiemiddelen, inclusief cookie-ID's. Gebruikers- en event-level gegevens worden na 26 maanden verwijderd.";
+
+/* Settings View Controller */
+"reset_search_history" = "Zoekgeschiedenis opnieuw instellen";
+"privacy_center" = "Privacycentrum";
+"version_text" = "Versie %1$@";
+"search_history_reset" = "Zoekgeschiedenis opnieuw ingesteld";
+"search_history_reset_msg" = "Zoekgeschiedenis is succesvol opnieuw ingesteld";
+
+/* Privacy Center View Controller */
+"privacy_policy" = "Privacybeleid";
+"consent_last_changed" = "Toestemming laatst gewijzigd:";
+"change_consent" = "Toestemming wijzigen";
+"ad_identifier" = "Advertentie-ID";
+"accepted" = "Geaccepteerd";
+"declined" = "Afgewezen";
+"restart_required" = "opnieuw opstarten vereist";
+"restart_recommended" = "Opnieuw opstarten aanbevolen.";
+"restart_recommended_msg" = "Wij raden aan om de app opnieuw op te starten om de privacygegevens volledig toe te passen.";
